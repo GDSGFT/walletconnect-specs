@@ -29,4 +29,4 @@ Older versions are available in `versioned_docs/`.
 
 For more options, check the [Docusaurus docs](https://docusaurus.io/).
 
-Archived v1.0 docs can be viewed in the [v1.0 branch](https://github.com/WalletConnect/walletconnect-docs/tree/v1.0).
+Archived v1.0 docs can be viewed in the [v1.0 branch](https://github.com/WalletConnect/walletconnect-docs/tree/v1.0).control+shift+m
